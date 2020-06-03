@@ -1,3 +1,5 @@
+# Generate the reverse of a given number N.
+
 def number():
     while True:
         userInput = input('Please enter a big non-negative integer number: ')
